@@ -1,0 +1,10 @@
+CPU Usage: 78.5%
+Memory Usage: 63.2%
+Disk Usage: 45%
+Top Processes:
+PID   %CPU  %MEM   COMMAND
+1505  25.2  1.4    chrome
+1012  18.5  5.2    java
+1223  12.8  3.1    microsoft-edge
+3154   9.7  2.5    code
+4720   5.4  1.3    code
